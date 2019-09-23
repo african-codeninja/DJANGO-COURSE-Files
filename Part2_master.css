@@ -1,0 +1,17 @@
+body{
+  background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2019-bmw-3-series-leadgallery-1544548010.jpg?crop=1.00xw:0.822xh;0,0.0840xh&resize=980:*)
+}
+div{
+  background-color: yellow;
+  border-color: blue;
+  border-width: 10px;
+  border-style: double;
+}
+
+p{
+  color: red;
+}
+span{
+  background-color: red;
+  color: white;
+}

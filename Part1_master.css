@@ -1,0 +1,20 @@
+/* This is a comment */
+/* Thia is also a commnet made my ctrl/ */
+/* selected tag{
+  property: value;
+}*/
+h1{
+  color: blue;
+}
+
+li{
+  color: rgb(224, 156, 47);
+}
+
+p{
+  color: #6565ce;
+}
+
+h4{
+  color: rgba(224, 156, 47, 0.5);
+}

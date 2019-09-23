@@ -1,0 +1,39 @@
+
+h1{
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+.art{
+  margin: auto;
+}
+
+td{
+  background-color: black;
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+
+#firstcell{
+  background-color: #171738;
+}
+
+#secondcell{
+  background-color: #2E1760;
+}
+
+#thirdcell{
+  background-color: #3423A6;
+}
+
+#forthcell{
+  background-color: #FF167F;
+}
+
+#fifthcell{
+  background-color: #FA00FF;
+}
